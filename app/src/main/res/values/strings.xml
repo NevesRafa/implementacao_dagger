@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Implementação Dagger</string>
+    <string name="lista_nomes">Lista Nomes</string>
+    <string name="app_implementa_o_dagger2_estudo">App implementação Dagger2 (estudo)</string>
+    <string name="nome">Nome</string>
+    <string name="salvar">Salvar</string>
+</resources>
