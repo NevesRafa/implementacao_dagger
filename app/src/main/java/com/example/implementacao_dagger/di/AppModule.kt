@@ -1,11 +1,11 @@
-package com.example.implementacao_dagger.domain.di
+package com.example.implementacao_dagger.di
 
 import android.content.Context
 import androidx.room.Room
 import com.example.implementacao_dagger.data.local.AppDatabase
 import com.example.implementacao_dagger.data.local.UserDao
-import com.example.implementacao_dagger.domain.repository.UserRepository
-import com.example.implementacao_dagger.domain.repository.UserRepositoryImpl
+import com.example.implementacao_dagger.data.repository.UserRepository
+import com.example.implementacao_dagger.data.repository.UserRepositoryImpl
 import dagger.Module
 import dagger.Provides
 import javax.inject.Singleton

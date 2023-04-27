@@ -1,4 +1,5 @@
-package com.example.implementacao_dagger.domain.di
+package com.example.implementacao_dagger.di
+
 
 import dagger.android.AndroidInjector
 import dagger.android.DaggerApplication

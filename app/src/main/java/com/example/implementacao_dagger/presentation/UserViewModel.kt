@@ -4,7 +4,7 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.implementacao_dagger.data.model.UserDetails
-import com.example.implementacao_dagger.domain.repository.UserRepository
+import com.example.implementacao_dagger.data.repository.UserRepository
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 

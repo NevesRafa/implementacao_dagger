@@ -8,8 +8,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.implementacao_dagger.data.model.UserDetails
-import com.example.implementacao_dagger.domain.di.MyApplication
-import com.example.implementacao_dagger.domain.di.ViewModelFactory
+import com.example.implementacao_dagger.di.MyApplication
+import com.example.implementacao_dagger.di.ViewModelFactory
 import com.example.implementaodagger.databinding.ActivityMainBinding
 import javax.inject.Inject
 
@@ -65,7 +65,7 @@ class UserActivity : AppCompatActivity() {
     }
 
     private fun toastSuccess() {
-        val toast = Toast.makeText(this, "Usuario cadastrado", Toast.LENGTH_LONG)
+        val toast = Toast.makeText(this, "Usuario cadastrado", Toast.LENGTH_SHORT)
         toast.setGravity(Gravity.TOP, 0, 0)
         toast.show()
     }

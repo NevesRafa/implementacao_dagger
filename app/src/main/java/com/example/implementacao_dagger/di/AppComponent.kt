@@ -1,4 +1,4 @@
-package com.example.implementacao_dagger.domain.di
+package com.example.implementacao_dagger.di
 
 import com.example.implementacao_dagger.presentation.UserActivity
 import dagger.BindsInstance

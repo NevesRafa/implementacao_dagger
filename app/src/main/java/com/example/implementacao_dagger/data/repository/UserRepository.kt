@@ -1,4 +1,4 @@
-package com.example.implementacao_dagger.domain.repository
+package com.example.implementacao_dagger.data.repository
 
 import com.example.implementacao_dagger.data.model.UserDetails
 
