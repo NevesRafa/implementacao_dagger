@@ -8,7 +8,7 @@
   <li>Implementação da arquitetura Clean.</li>
 </ul>
 
-<p>Este projeto tem como objetivo fornecer um exemplo simples de como utilizar Dagger2 em um projeto Android com a linguagem Kotlin, além de demonstrar como integrar o SQLite Room em uma aplicação Android. Este é um projeto de estudo para aprender como implementar o Dagger2 em projetos Android.</p>
+<p>Este projeto tem como objetivo fornecer um exemplo simples de como utilizar Dagger2 em um projeto Android com a linguagem Kotlin, além de demonstrar como integrar o SQLite Room em uma aplicação Android.</p>
 
 <h2>Estrutura do projeto</h2>
 <p>O projeto segue a arquitetura Clean, estando estruturado em três camadas:</p>
